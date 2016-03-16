@@ -1,1 +1,1 @@
-jenkins「test-pull」ビルド#34での変更分
+jenkins「test-auto-push」ビルド#35での変更分
